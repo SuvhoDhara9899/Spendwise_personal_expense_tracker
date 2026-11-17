@@ -1,0 +1,20 @@
+[
+  {
+    "id": "501ac13ca2c1429abfe160db973ca951",
+    "date": "2026-11-06",
+    "amount": 5000.0,
+    "description": "flight booking",
+    "category": "Travel",
+    "receipt": "",
+    "created": "2026-11-06T18:44:13"
+  },
+  {
+    "id": "32271816851d44268bbc7521b9c31470",
+    "date": "2026-11-06",
+    "amount": 10000.0,
+    "description": "puja shopping",
+    "category": "Shopping",
+    "receipt": "",
+    "created": "2026-11-06T18:44:43"
+  }
+]
